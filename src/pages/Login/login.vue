@@ -34,7 +34,7 @@
                 :class="{ rightPhoneNumber: rightPhoneNumber }"
               >
                 <!-- :style="{ color: rightPhoneNumber ? 'red' : '' }" -->
-                获取验证码
+                获取验证码1
               </button>
             </section>
             <section class="login_verification">
